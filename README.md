@@ -14,7 +14,7 @@
 - 💡 Building projects in **C, C++, Java**, and exploring **Python & JavaScript**.  
 - 🧠 I love turning complex problems into clean, simple code.  
 - 🌱 Currently exploring *Full-Stack Development* & *real-world system design*.  
-- 💪 Strong foundation in **Data Structures, Algorithms, and Competitive Programming**.  
+- 💪 Strong foundation in **Data Structures, Algorithms.  
 
 ---
 
@@ -68,7 +68,7 @@
 
 📍 Pune, India  
 📧 tusharshirsat.works@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tusharshirsat) | 🧑‍💻 [LeetCode](https://leetcode.com/ShirsatTushar) | 📦 [GitHub](https://github.com/ShirsatTushar)
+💼 [LinkedIn](https://www.linkedin.com/in/tushar-shirsat-b08973384/) | 🧑‍💻 [LeetCode](https://leetcode.com/ShirsatTushar) | 📦 [GitHub](https://github.com/ShirsatTushar)
 
 ---
 
