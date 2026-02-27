@@ -1,79 +1,154 @@
-<div align="center">
+div align="center">
 
-# 👋 Hi, I'm Tushar Shirsat  
+<!-- Dynamic Animated Header -->
 
-💻 Developer | 🚀 Logic Builder | 📚 Data Structures & Linked Lists Enthusiast  
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:000000,100:00599C%26height%3D200%26section%3Dheader%26text%3DTushar%2520Shirsat%26fontSize%3D50%26fontAlignY%3D35%26animation%3Dtwinkling%26fontColor%3Dffffff" width="100%" />
+
+<!-- Typing SVG Effect -->
+
+<a href="https://github.com/ShirsatTushar">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D24%26pause%3D1000%26color%3D00599C%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DData%2BStructures%2B%2526%2BAlgorithms%3BC%252C%2BC%252B%252B%2B%2526%2BJava%2BDeveloper%3BTurning%2BLogic%2Binto%2BCode%3BBuilding%2BCustom%2BLibraries" alt="Typing SVG" />
+</a>
+
+“Turning logic into code, and ideas into projects.”
+
+<!-- Social & Contact Badges (Uniform Styling) -->
+
+<a href="https://www.linkedin.com/in/tushar-shirsat-b08973384/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" /></a>
+<a href="mailto:tusharshirsat.works@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" /></a>
+<a href="https://leetcode.com/ShirsatTushar"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dblack" alt="LeetCode" /></a>
+<a href="https://github.com/ShirsatTushar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
----
+🚀 The Engineering Dashboard
 
-### 🚀 About Me  
+<!-- Advanced HTML Table Layout for Side-by-Side Content -->
 
-- 🔥 Passionate about **Data Structures & Algorithms** — especially *Linked Lists, Trees, and custom libraries*.  
-- 💡 Building projects in **C, C++, Java**, and exploring **Python & JavaScript**.  
-- 🧠 I love turning complex problems into clean, simple code.  
-- 🌱 Currently exploring *Full-Stack Development* & *real-world system design*.  
-- 💪 Strong foundation in **Data Structures, Algorithms.  
+<table align="center" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<!-- LEFT COLUMN: Terminal & Skills -->
+<td width="55%" valign="top" style="border: none;">
 
----
+  <b><pre>👨🏻‍💻 ~/sys/profile.sh</pre></b>
 
-### 📦 Featured Repositories  
 
-| Repository | Description |
-|-------------|-------------|
-| [GenericLinkedList](https://github.com/ShirsatTushar/GenericLinkedList) | Generic Linked List library in C++ |
-| [SinglyLinkedList](https://github.com/ShirsatTushar/SinglyLinkedList) | Singly Linked List implemented in C |
-| [LinkedListLibrary-Java](https://github.com/ShirsatTushar/LinkedListLibrary-Java) | Linked List implementation in Java |
-| [LinkedList-Project](https://github.com/ShirsatTushar/LinkedList-Project) | Linked List operations in Java |
-| [C-Programs](https://github.com/ShirsatTushar/C-Programs) | C programs for DSA and logic building |
-| [CPP-Program](https://github.com/ShirsatTushar/CPP-Program) | C++ problem-solving and logic programs |
-| [Practice_Programming_Java](https://github.com/ShirsatTushar/Practice_Programming_Java) | Java practice programs and DSA |
-| [Customised-Dynamic-File-System](https://github.com/ShirsatTushar/Customised-Dynamic-File-System) | Dynamic File System in C++ |
-| [File-Packer-Unpacker](https://github.com/ShirsatTushar/File-Packer-Unpacker) | Java File Packer & Unpacker project |
-| [Chat-Messenger-with-Log-Facility](https://github.com/ShirsatTushar/Chat-Messenger-with-Log-Facility) | Java Chat Messenger app with logging system |
+const developer = {
+  name: "Tushar Shirsat",
+  location: "Pune, India",
+  focus: ["Data Structures", "Algorithms", "System Design"],
+  passion: "Linked Lists, Trees & Custom Libraries",
+  languages: ["C", "C++", "Java", "Python", "JavaScript"],
+  tools: ["Git", "VS Code", "IntelliJ IDEA"],
+  philosophy: "Turning complex problems into clean, simple code."
+};
 
----
 
-### 🧠 Languages & Tools  
+<b><pre>🛠️ ~/sys/arsenal</pre></b>
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<!-- Tech Stack Grid with custom colors -->
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dflat-square%26logo%3Dc%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dflat-square%26logo%3Dcplusplus%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dflat-square%26logo%3Djava%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dflat-square%26logo%3Djavascript%26logoColor%3Dblack"/>
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat-square%26logo%3Dgit%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS%2520Code-0078d7%3Fstyle%3Dflat-square%26logo%3Dvisual-studio-code%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/IntelliJ%2520IDEA-000000%3Fstyle%3Dflat-square%26logo%3Dintellij-idea%26logoColor%3Dwhite"/>
 </p>
 
-<p align="center">
-  <!-- Tools & IDEs -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
+</td>
+
+<!-- RIGHT COLUMN: Dynamic Github Stats -->
+
+<td width="45%" valign="top" style="border: none;">
+
+<b><pre>📊 ~/sys/telemetry</pre></b>
+
+<!-- Custom Styled GitHub Stats Card -->
+
+<a href="https://github.com/ShirsatTushar">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DShirsatTushar%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00599C%26icon_color%3D00599C" alt="GitHub Stats" width="100%"/>
+</a>
 
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShirsatTushar&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShirsatTushar&layout=compact&theme=tokyonight" height="150"/>
-</p>
 
----
 
-### 🌐 Connect With Me  
+<!-- Top Languages Card -->
 
-📍 Pune, India  
-📧 tusharshirsat.works@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/tushar-shirsat-b08973384/) | 🧑‍💻 [LeetCode](https://leetcode.com/ShirsatTushar) | 📦 [GitHub](https://github.com/ShirsatTushar)
+<a href="https://github.com/ShirsatTushar">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DShirsatTushar%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00599C" alt="Top Languages" width="100%"/>
+</a>
 
----
+
+
+
+
+<!-- Trophies -> Proves you are an active developer -->
+
+<a href="https://www.google.com/search?q=https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DShirsatTushar%26theme%3Dradical%26column%3D3%26margin-w%3D15%26margin-h%3D15%26no-frame%3Dtrue%26no-bg%3Dtrue" alt="Trophies" width="100%"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+🏆 Hall of Fame: Featured Architecture
+
+The projects that highlight my expertise in logic building and system fundamentals.
+
+Project Name & Link
+
+Tech Stack
+
+What makes it special?
+
+🗂️ Customised Dynamic File System
+
+C++
+
+A fully functional dynamic file system built from scratch, showcasing low-level memory and file management.
+
+🔗 Generic Linked List
+
+C++
+
+A highly reusable, generic linked list library implemented for modular software development.
+
+💬 Chat Messenger with Logs
+
+Java
+
+Real-time chat application featuring a comprehensive backend logging facility.
+
+📦 File Packer-Unpacker
+
+Java
+
+Efficient file archiver utility to pack multiple files into a single, seamless archive.
+
+🐍 The Contribution Ecosystem
+
+Consistency is key. Here is my code consumption over the last year.
 
 <div align="center">
+<!-- This is the animated snake! (Requires GitHub Actions setup) -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/ShirsatTushar/ShirsatTushar/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/ShirsatTushar/ShirsatTushar/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/ShirsatTushar/ShirsatTushar/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
 
-✨ *“Turning logic into code, and ideas into projects.”* ✨  
-
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DShirsatTushar%26label%3DPROFILE%2BVIEWS%26style%3Dfor-the-badge%26color%3D00599C" alt="Profile Views" />
 </div>
