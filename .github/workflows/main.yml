@@ -5,6 +5,10 @@ on:
     - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
 
+# 👇 ADD THIS BLOCK TO GRANT WRITE PERMISSIONS 👇
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,4 +25,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
